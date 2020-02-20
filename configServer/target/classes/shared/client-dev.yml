@@ -1,0 +1,8 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: client
+  thymeleaf:
+    prefix: classpath:/static/
+    suffix: .html
